@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://morningrock.github.io</id>
-    <title></title>
-    <updated>2021-08-23T07:58:54.864Z</updated>
+    <title>强风吹拂</title>
+    <updated>2021-08-23T08:15:10.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://morningrock.github.io"/>
     <link rel="self" href="https://morningrock.github.io/atom.xml"/>
     <logo>https://morningrock.github.io/images/avatar.png</logo>
     <icon>https://morningrock.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, </rights>
+    <rights>All rights reserved 2021, 强风吹拂</rights>
     <entry>
         <title type="html"><![CDATA[Vol20210829]]></title>
         <id>https://morningrock.github.io/post/vol20210829/</id>
